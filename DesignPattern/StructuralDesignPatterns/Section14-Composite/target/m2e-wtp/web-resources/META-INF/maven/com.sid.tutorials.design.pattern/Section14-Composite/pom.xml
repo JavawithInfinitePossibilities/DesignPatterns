@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.design.pattern</groupId>
+		<artifactId>StructuralDesignPatterns</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Section14-Composite</artifactId>
+	<packaging>war</packaging>
+	<name>14. Composite</name>
+	<description>14. Composite</description>
+	<properties>
+		<project.name>Section14-Composite</project.name>
+	</properties>
+</project>

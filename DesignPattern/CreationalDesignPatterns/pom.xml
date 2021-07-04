@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.design.pattern</groupId>
+		<artifactId>DesignPattern</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>CreationalDesignPatterns</artifactId>
+	<packaging>pom</packaging>
+	<name>Creational Design Patterns</name>
+	<description>Creational Design Patterns</description>
+
+	<modules>
+		<module>Section06FactoryMethod</module>
+		<module>Section07-Abstract-Factory-Method</module>
+		<module>Section08Singleton</module>
+		<module>Section09-Builder</module>
+		<module>Section10-Prototype</module>
+	</modules>
+</project>

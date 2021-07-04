@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.design.pattern</groupId>
+		<artifactId>CreationalDesignPatterns</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Section07-Abstract-Factory-Method</artifactId>
+	<packaging>war</packaging>
+	<name>7. Abstract Factory Method</name>
+	<description>7. Abstract Factory Method</description>
+
+	<properties>
+		<failOnMissingWebXml>false</failOnMissingWebXml>
+		<project.name>Section07-Abstract-Factory-Method</project.name>
+	</properties>
+
+</project>
