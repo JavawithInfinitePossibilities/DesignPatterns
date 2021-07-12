@@ -1,0 +1,10 @@
+com\sid\tutorials\design\pattern\adaptor\Calculater.class
+com\sid\tutorials\design\pattern\adaptor\IBritishWellOutlet.class
+com\sid\tutorials\design\pattern\adaptor\IUSAPlugInSocket.class
+com\sid\tutorials\design\pattern\adaptor\ACAdaptor.class
+com\sid\tutorials\design\pattern\adaptor\CalculatorAdaptor.class
+com\sid\tutorials\design\pattern\Section12Adapter.class
+com\sid\tutorials\design\pattern\adaptor\Plugin.class
+com\sid\tutorials\design\pattern\adaptor\WellOutlet.class
+com\sid\tutorials\design\pattern\adaptor\Circle.class
+com\sid\tutorials\design\pattern\adaptor\Rectangle.class

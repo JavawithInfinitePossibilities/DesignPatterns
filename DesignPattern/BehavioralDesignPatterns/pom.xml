@@ -13,5 +13,15 @@
 	<description>Behavioral Design Patterns</description>
 	<modules>
 		<module>Section21ChainofResponsibility</module>
+		<module>Section22-Command</module>
+		<module>Section23-Interpreter</module>
+		<module>Section24-Iterator</module>
+		<module>Section25-Mediator</module>
+		<module>Section26-Memento</module>
+		<module>Section27-Observer</module>
+		<module>Section28-State</module>
+		<module>Section29-Strategy</module>
+		<module>Section30-Template-Method</module>
+		<module>Section31-Visitor</module>
 	</modules>
 </project>

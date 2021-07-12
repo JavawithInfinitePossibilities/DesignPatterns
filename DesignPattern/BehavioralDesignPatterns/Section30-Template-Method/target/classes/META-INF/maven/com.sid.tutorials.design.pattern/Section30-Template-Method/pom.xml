@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.design.pattern</groupId>
+		<artifactId>BehavioralDesignPatterns</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Section30-Template-Method</artifactId>
+	<name>30. Template Method</name>
+	<description>30. Template Method</description>
+	<properties>
+		<project.name>Section30-Template-Method</project.name>
+	</properties>
+</project>

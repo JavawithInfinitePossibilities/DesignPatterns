@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.design.pattern</groupId>
+		<artifactId>BehavioralDesignPatterns</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Section29-Strategy</artifactId>
+	<packaging>war</packaging>
+	<name>29. Strategy</name>
+	<description>29. Strategy</description>
+	<properties>
+		<project.name>Section29-Strategy</project.name>
+	</properties>
+</project>

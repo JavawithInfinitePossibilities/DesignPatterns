@@ -1,0 +1,6 @@
+com\sid\tutorials\design\pattern\Section10Prototype.class
+com\sid\tutorials\design\pattern\RectangularShap.class
+com\sid\tutorials\design\pattern\ShapeCache.class
+com\sid\tutorials\design\pattern\SqureShape.class
+com\sid\tutorials\design\pattern\CircleShape.class
+com\sid\tutorials\design\pattern\IShape.class

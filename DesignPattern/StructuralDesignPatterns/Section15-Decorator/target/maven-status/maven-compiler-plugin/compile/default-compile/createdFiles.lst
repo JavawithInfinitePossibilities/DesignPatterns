@@ -1,0 +1,5 @@
+com\sid\tutorials\design\pattern\Section15Decorator.class
+com\sid\tutorials\design\pattern\AbstractDecorator.class
+com\sid\tutorials\design\pattern\ConcreteDecorator.class
+com\sid\tutorials\design\pattern\ConcreteComponent.class
+com\sid\tutorials\design\pattern\IComponent.class

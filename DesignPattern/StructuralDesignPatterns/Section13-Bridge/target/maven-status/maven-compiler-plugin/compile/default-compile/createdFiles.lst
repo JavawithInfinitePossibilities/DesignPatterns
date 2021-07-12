@@ -1,0 +1,9 @@
+com\sid\tutorials\design\pattern\IVehicle.class
+com\sid\tutorials\design\pattern\IWorkshop.class
+com\sid\tutorials\design\pattern\Producer$ProducerBuilder.class
+com\sid\tutorials\design\pattern\Producer.class
+com\sid\tutorials\design\pattern\Section13Bridge.class
+com\sid\tutorials\design\pattern\Bike.class
+com\sid\tutorials\design\pattern\Assembler.class
+com\sid\tutorials\design\pattern\Car.class
+com\sid\tutorials\design\pattern\Assembler$AssemblerBuilder.class

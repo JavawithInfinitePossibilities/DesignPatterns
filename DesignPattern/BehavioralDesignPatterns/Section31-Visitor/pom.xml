@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.design.pattern</groupId>
+		<artifactId>BehavioralDesignPatterns</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Section31-Visitor</artifactId>
+	<packaging>war</packaging>
+	<name>31. Visitor</name>
+	<description>31. Visitor</description>
+	<properties>
+		<project.name>Section31-Visitor</project.name>
+	</properties>
+</project>
